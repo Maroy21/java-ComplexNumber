@@ -3,5 +3,7 @@
 реализованы:
 
 print
+
 sum, sub, mult, dev
+
 module, arg
